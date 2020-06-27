@@ -8,7 +8,7 @@ This is repository contain the export the data into csv file
  C:\kubernates-example\springboot-export-csv>mvn spring-boot:run
  
  <h2> out put url</h2>
- http://localhost:8081/export-users
+ http://localhost:8080/export-users
   
   
  
